@@ -1,0 +1,61 @@
+body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f9f4;
+      margin: 0;
+      padding: 0;
+      color: #333;
+    }
+    header {
+      background-color: #4CAF50;
+      color: white;
+      text-align: center;
+      padding: 1.5rem;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 1.8rem;
+    }
+    section {
+      padding: 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    h2 {
+      color: #4CAF50;
+      border-bottom: 2px solid #4CAF50;
+      padding-bottom: 5px;
+    }
+    .paso {
+      background: #e8f5e9;
+      border-radius: 10px;
+      padding: 15px;
+      margin: 15px 0;
+    }
+    .resultado {
+      background: #fff3cd;
+      padding: 15px;
+      border-radius: 10px;
+      margin: 15px 0;
+    }
+    .tabla-ph {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 15px;
+    }
+    .tabla-ph th, .tabla-ph td {
+      border: 1px solid #ccc;
+      padding: 10px;
+      text-align: center;
+    }
+    .recomendaciones {
+      background: #d1ecf1;
+      padding: 15px;
+      border-radius: 10px;
+    }
+    footer {
+      text-align: center;
+      background: #4CAF50;
+      color: white;
+      padding: 10px;
+      margin-top: 20px;
+    }
